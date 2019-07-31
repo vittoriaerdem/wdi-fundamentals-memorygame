@@ -1,9 +1,12 @@
 body {
 	text-align: center;
+	justify-content: center;
+    align-items: center;
 	margin: 0;
 }
 header {
 	background-color: #F15B31;
+	text-align: center;
 	color: #ffffff;
 	padding: 30px 20px;
 }
@@ -12,6 +15,7 @@ nav {
 	color: #ffffff;
 	padding: 20px 0;
 	text-decoration: none;
+	text-align: center;
 }
 a {
 	margin: 0 20px;
@@ -20,7 +24,9 @@ a {
 }
 main {
 	text-align: center;
-	width: 850px;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
 	margin: 35 auto;
 }
 h1 
